@@ -4,7 +4,7 @@ Authors:
   
 
 # How to run the system.
-  <br>1. Download the .exe file in the "release" tab
+  <br>1. Download the .exe file in the "Releases" tab
   <br>2. Double click the .exe file to run it
   
   
