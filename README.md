@@ -1,5 +1,3 @@
-Download Here >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
 # JBMC-Assistance-System
 Authors:
   <br> Jeff Lee
